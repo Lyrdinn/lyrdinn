@@ -22,3 +22,7 @@
 &nbsp; <a href="https://www.instagram.com/lyr_dinn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/marina-secord-4b01202a9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
+
+<h3 align="center">
+  Itch.io : <a href="https://lyrdinn.itch.io/" target ="_blank" rel="noopene noreferrer"> </a>
+</h3>
