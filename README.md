@@ -14,6 +14,9 @@
 - 🔧 &nbsp; Visual Studio | Visual Studio code  | Git
 - 🖥 &nbsp; ClipStudioPaint | Photoshop | MedibangPaint | Blender
 
+<h2> 🎮 Itch.io Page https://lyrdinn.itch.io/  </h2>
+
+
 <h2> 💻 Recent Projects </h2>
 <p align="center">
   <img src="screenshots/minicraft.png" width="300" title="Minecraft open gl">
@@ -32,6 +35,16 @@
 </p>
 
 <p align="center">
+  <img src="screenshots/pico81.png" width="300" title="Pico8 dungeon game">
+  <img src="screenshots/pico82.png" width="300" title="Pico8 dungeon game">
+</p>
+
+<p align = "center">
+  Pico8 procedural dungeon game (Personnal project)
+  Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
+</p>
+
+<p align="center">
   <img src="screenshots/triose.png" width="300" title="Co-op bullet hell game">
 </p>
 
@@ -40,7 +53,44 @@
   Link here : https://shanori.itch.io/triose
 </p>
 
+<p align="center">
+  <img src="screenshots/larcinlazer.png" width="300" title="Memory puzzle game">
+</p>
+
+<p align = "center">
+  Larcin lazer demake developped in C++ (Cnam-ENJMIN) (game belongs to @DocGeraud)
+  \nLink here : https://github.com/Lyrdinn/LarcinLazer
+</p>
+
 <h2> 💻 Older Projects </h2>
+
+<p align="center">
+  <img src="screenshots/dactylogame.png" width="250" title="Typing game in Java">
+  <img src="screenshots/jeudelavie.png" width="250" title="Game of life">
+  <img src="screenshots/catan.png" width="250" title="Catan board game">
+</p>
+
+<p align = "center">
+  Various games develloped in Java (Licence Informatique Paris-Cité)
+</p>
+
+<p align="center">
+  <img src="screenshots/reseaux.png" width="250" title="Client server social network">
+  <img src="screenshots/reseaux2.png" width="250" title="Client server social network">
+</p>
+
+<p align = "center">
+  One of the C project I did. Client/Server social network using TCP and UDP 
+  \n(Licence Informatique Paris-Cité)
+</p>
+
+<p align="center">
+  <img src="screenshots/solitaire.png" width="250" title="Solitaire solver algorithm">
+</p>
+
+<p align = "center">
+  Solitaire game solver algorithm in Ocaml (Licence Informatique Paris-Cité)
+</p>
 
 <h2> 🤝🏻 Connect with Me </h2>
 
