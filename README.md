@@ -17,16 +17,25 @@
 <h2> 💻 Recent Projects </h2>
 <p align="center">
   <img src="screenshots/minicraft.png" width="300" title="Minecraft open gl">
-  <span class="caption">Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)</span>
+</p>
+
+<p align = "center">
+  Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)
 </p>
 
 <p align="center">
   <img src="screenshots/aiants.png" width="300" title="Ant AI for Google's 2011 challenge">
+</p>
+
+<p align = "center">
   Ant AI in C++ based on the Google AI 2011 Challenge (Cnam-ENJMIN)
 </p>
 
 <p align="center">
   <img src="screenshots/triose.png" width="300" title="Co-op bullet hell game">
+</p>
+
+<p align = "center">
   Co-op bullet hell game develloped in Unity (Cnam-ENJMIN)
   Link here : https://shanori.itch.io/triose
 </p>
