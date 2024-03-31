@@ -17,7 +17,7 @@
 <h2> 💻 Recent Projects </h2>
 <p align="center">
   <img src="screenshots/minicraft.png" width="300" title="Minecraft open gl">
-  Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)
+  <span class="caption">Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)</span>
 </p>
 
 <p align="center">
