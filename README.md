@@ -62,7 +62,8 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/triose.png" width="300" title="Co-op bullet hell game">
+  <img src="screenshots/triose1.png" width="300" title="Co-op bullet hell game">
+  <img src="screenshots/triose2.png" width="300" title="Co-op bullet hell game">
 </p>
 
 <p align = "center">
@@ -72,11 +73,12 @@
 
 <p align="center">
   <img src="screenshots/larcinlazer.png" width="300" title="Memory puzzle game">
+  <img src="screenshots/larcinlazer1.png" width="300" title="Memory puzzle game">
 </p>
 
 <p align = "center">
   Larcin lazer demake developped in C++ (Cnam-ENJMIN) (game belongs to @DocGeraud) <br />
-  \nLink here : https://github.com/Lyrdinn/LarcinLazer
+  Link here : https://github.com/Lyrdinn/LarcinLazer
 </p>
 
 <h2> 💻 Older Projects </h2>
