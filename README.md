@@ -10,7 +10,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Python | Java | C++ | C# | C | Lua
+- 💻 &nbsp; C++ | C# | Python | Java | C | Lua
 - 🔧 &nbsp; Visual Studio | Visual Studio code  | Git
 - 🖥 &nbsp; ClipStudioPaint | Photoshop | MedibangPaint | Blender
 
@@ -18,12 +18,28 @@
 
 
 <h2> 💻 Recent Projects </h2>
+
+
 <p align="center">
-  <img src="screenshots/minicraft.png" width="300" title="Minecraft open gl">
+  <img src="screenshots/Earwyrm1.png" width="300" title="Earwyrm a co-op rythm-action game">
+  <img src="screenshots/Earwyrm2.png" width="300" title="Earwyrm a co-op rythm-action game">
+</p>
+
+<p align = "center">
+  Earwyrm a co-op rythm-action game, my M1 project  (Cnam-ENJMIN)
+  Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4
+  Link here : https://earwyrm.itch.io/earwyrm
+</p>
+
+
+<p align="center">
+  <img src="screenshots/minicraft1.png" width="300" title="Minecraft open gl">
+  <img src="screenshots/minicraft2.png" width="300" title="Minecraft open gl">
 </p>
 
 <p align = "center">
   Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)
+  Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA
 </p>
 
 <p align="center">
@@ -99,7 +115,3 @@
 &nbsp; <a href="https://www.instagram.com/lyr_dinn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/marina-secord-4b01202a9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
-
-<h3 align="center">
-  Itch.io : <a href="https://lyrdinn.itch.io/" target ="_blank" rel="noopene noreferrer"> </a>
-</h3>
