@@ -21,13 +21,14 @@
 
 
 <p align="center">
+  <img src="screenshots/Earwyrm.png" width="300" title="Earwyrm a co-op rythm-action game">
   <img src="screenshots/Earwyrm1.png" width="300" title="Earwyrm a co-op rythm-action game">
   <img src="screenshots/Earwyrm2.png" width="300" title="Earwyrm a co-op rythm-action game">
 </p>
 
 <p align = "center">
-  Earwyrm a co-op rythm-action game, my M1 project  (Cnam-ENJMIN)
-  Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4
+  Earwyrm a co-op rythm-action game, my M1 project  (Cnam-ENJMIN) <br />
+  Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4 <br />
   Link here : https://earwyrm.itch.io/earwyrm
 </p>
 
@@ -38,7 +39,7 @@
 </p>
 
 <p align = "center">
-  Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)
+  Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN) <br />
   Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA
 </p>
 
@@ -56,7 +57,7 @@
 </p>
 
 <p align = "center">
-  Pico8 procedural dungeon game (Personnal project)
+  Pico8 procedural dungeon game (Personnal project) <br />
   Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
 </p>
 
@@ -65,7 +66,7 @@
 </p>
 
 <p align = "center">
-  Co-op bullet hell game develloped in Unity (Cnam-ENJMIN)
+  Co-op bullet hell game develloped in Unity (Cnam-ENJMIN) <br />
   Link here : https://shanori.itch.io/triose
 </p>
 
@@ -74,7 +75,7 @@
 </p>
 
 <p align = "center">
-  Larcin lazer demake developped in C++ (Cnam-ENJMIN) (game belongs to @DocGeraud)
+  Larcin lazer demake developped in C++ (Cnam-ENJMIN) (game belongs to @DocGeraud) <br />
   \nLink here : https://github.com/Lyrdinn/LarcinLazer
 </p>
 
@@ -96,8 +97,7 @@
 </p>
 
 <p align = "center">
-  One of the C project I did. Client/Server social network using TCP and UDP 
-  \n(Licence Informatique Paris-Cité)
+  One of the C project I did. Client/Server social network using TCP and UDP (Licence Informatique Paris-Cité)
 </p>
 
 <p align="center">
