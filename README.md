@@ -1,17 +1,18 @@
 <h2> 👨🏻‍💻 About Me </h2>
 
-<p> I'm an aspiring game developper that enjoys making creative games and learning new ways to make them</p>
+<p> I'm an aspiring gameplay programmer that enjoys learning and making creative games</p>
 
-- 🎓 &nbsp; I'm currently a master's degree student at CNAM-ENJMIN in programming.
-- 💻 &nbsp; Right now I'm very passionate about procedural generation and AI
+- 🎓 &nbsp; I'm currently a master's degree game programming student at CNAM-ENJMIN.
+- 🔧 &nbsp; I've made games in multiple engines but my favorite ones are mostly Unity, Godot and Unreal.
+- 💻 &nbsp; I'm very passionate about procedural generation and AI
 - 🌱 &nbsp; I often go for a walk outside and take pictures of nature and animals.
 - ✏️ &nbsp; I like to draw illustrations and create characters. I've been learning how to draw since I was 13
-- 🔧 &nbsp; I've made games in multiple engines but my main ones are mostly Unity and Godot.
 
 <h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; C++ | C# | Python | Java | C | Lua
 - 🔧 &nbsp; Visual Studio | Visual Studio code  | Git
+- 🖥 &nbsp; Waterfall | Scrum | Agile | Sprint
 - 🖥 &nbsp; ClipStudioPaint | Photoshop | MedibangPaint | Blender
 
 <h2> 🎮 Itch.io Page https://lyrdinn.itch.io/  </h2>
