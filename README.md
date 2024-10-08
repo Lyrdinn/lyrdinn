@@ -1,17 +1,18 @@
 <h2> 👨🏻‍💻 About Me </h2>
 
-<p> I'm an aspiring gameplay programmer that enjoys learning and making creative games</p>
+<p> I'm an aspiring gameplay programmer that enjoys learning and making creative games. I studied for 3 years in Computer Science in the Université Paris-Cité and I'm currently in my 2nd year game programming master's degree at CNAM-ENJMIN. </p>
 
-- 🎓 &nbsp; I'm currently a master's degree game programming student at CNAM-ENJMIN.
+- 🎓 &nbsp; I'm currently a master's degree game programming student at CNAM-ENJMIN and I'm trying to specialize in gameplay programming.
 - 🔧 &nbsp; I've made games in multiple engines but my favorite ones are mostly Unity, Godot and Unreal.
-- 💻 &nbsp; I'm very passionate about procedural generation and AI
-- 🌱 &nbsp; I often go for a walk outside and take pictures of nature and animals.
+- 💻 &nbsp; I'm very passionate about procedural generation and AI.
 - ✏️ &nbsp; I like to draw illustrations and create characters. I've been learning how to draw since I was 13
+- 🌱 &nbsp; I often go for a walk outside and take pictures of nature and animals.
 
 <h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; C++ | C# | Python | Java | C | Lua
-- 🔧 &nbsp; Visual Studio | Visual Studio code  | Git
+- 🎮 &nbsp; Unity | Godot | Unreal | Pico8 | Renpy
+- 🔧 &nbsp; Visual Studio | Visual Studio code  | Git | Perforce
 - 🖥 &nbsp; Waterfall | Scrum | Agile | Sprint
 - 🖥 &nbsp; ClipStudioPaint | Photoshop | MedibangPaint | Blender
 
