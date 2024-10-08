@@ -18,7 +18,9 @@
 
 <h2> 🎮 Itch.io Page https://lyrdinn.itch.io/  </h2>
 
-<h2> 📜 CV LINK : https://drive.google.com/file/d/1E-XSSfFFk27MB0h5nfY__s9gVb-T0cT8/view?usp=drive_link </h2>
+<h2> 📜 French CV : https://drive.google.com/file/d/1E-XSSfFFk27MB0h5nfY__s9gVb-T0cT8/view?usp=drive_link </h2>
+
+<h2> 📜 English CV : https://drive.google.com/file/d/1S-rU7VCjHWAGsy9bKACV2YUDmqW3VrdN/view?usp=drive_link </h2>
 
 
 <h2> 💻 Recent Projects </h2>
