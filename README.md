@@ -54,7 +54,7 @@
 
 <p align = "center">
   Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN) <br />
-  Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA
+  Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA <br />
   Link here : https://github.com/Lyrdinn/Projet-Minicraft
 </p>
 
@@ -63,7 +63,8 @@
 </p>
 
 <p align = "center">
-  Ant AI in C++ based on the Google AI 2011 Challenge in a team of 3 (Cnam-ENJMIN)
+  Ant AI in C++ based on the Google AI 2011 Challenge in a team of 3 (Cnam-ENJMIN) <br />
+  Link here : https://github.com/Lyrdinn/FourmisTP
 </p>
 
 <p align="center">
