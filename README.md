@@ -27,7 +27,7 @@
 </p>
 
 <p align = "center">
-  Arcanistes en herbe, a card game prototype/proof of concept I made for my 2 months summer internship in the MNHN-CESCO in a team of 3 <br />
+  Arcanistes en herbe, a card game prototype/proof of concept I made for my 2 months summer internship in a team of 3 (MNHN-CESCO lab) <br />
   Linkedin post here : https://www.linkedin.com/posts/marina-secord-4b01202a9_en-activity-7246912956901244928-V8rn?utm_source=share&utm_medium=member_desktop
 </p>
 
