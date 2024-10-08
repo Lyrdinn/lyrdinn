@@ -46,6 +46,16 @@
   Ask me for the repository
 </p>
 
+<p align="center">
+  <img src="screenshots/quoridor1.png" width="300" title="Minecraft open gl">
+  <img src="screenshots/quoridor2.png" width="300" title="Minecraft open gl">
+</p>
+
+<p align = "center">
+  Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end. (Cnam-ENJMIN) <br />
+  Link here : https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm
+</p>
+
 
 <p align="center">
   <img src="screenshots/minicraft1.png" width="300" title="Minecraft open gl">
