@@ -21,13 +21,13 @@
 <h2> 💻 Recent Projects </h2>
 
 <p align="center">
-  <img src="screenshots/stage1.png" width="300" title="A card game I made for the MNHN-CESCO">
-  <img src="screenshots/stage2.png" width="300" title="Earwyrm a co-op rythm-action game">
-  <img src="screenshots/stage3.png" width="300" title="Earwyrm a co-op rythm-action game">
+  <img src="screenshots/stage1.jpg" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage2.jpg" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage3.jpg" width="300" title="A card game I made for the MNHN-CESCO">
 </p>
 
 <p align = "center">
-  Arcanistes en herbe, a game I made for my 2 months summer internship in the MNHN-CESCO <br />
+  Arcanistes en herbe, a card game prototype/proof of concept I made for my 2 months summer internship in the MNHN-CESCO in a team of 3 <br />
   Linkedin post here : https://www.linkedin.com/posts/marina-secord-4b01202a9_en-activity-7246912956901244928-V8rn?utm_source=share&utm_medium=member_desktop
 </p>
 
@@ -39,7 +39,7 @@
 </p>
 
 <p align = "center">
-  Earwyrm a co-op rythm-action game, my M1 project  (Cnam-ENJMIN) <br />
+  Earwyrm a co-op rythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN) <br />
   Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4 <br />
   Link here : https://earwyrm.itch.io/earwyrm
 </p>
@@ -60,7 +60,7 @@
 </p>
 
 <p align = "center">
-  Ant AI in C++ based on the Google AI 2011 Challenge (Cnam-ENJMIN)
+  Ant AI in C++ based on the Google AI 2011 Challenge in a team of 3 (Cnam-ENJMIN)
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 </p>
 
 <p align = "center">
-  Co-op bullet hell game develloped in Unity (Cnam-ENJMIN) <br />
+  Co-op bullet hell game develloped in Unity in a team of 10 (Cnam-ENJMIN) <br />
   Link here : https://shanori.itch.io/triose
 </p>
 
@@ -89,7 +89,7 @@
 </p>
 
 <p align = "center">
-  Larcin lazer demake developped in C++ (Cnam-ENJMIN) (game belongs to @DocGeraud) <br />
+  Larcin lazer demake developped in C++ in a team of 2 (Cnam-ENJMIN) (game belongs to @DocGeraud) <br />
   Link here : https://github.com/Lyrdinn/LarcinLazer
 </p>
 
@@ -111,7 +111,7 @@
 </p>
 
 <p align = "center">
-  One of the C project I did. Client/Server social network using TCP and UDP (Licence Informatique Paris-Cité)
+  One of the C project I did. Client/Server social network using TCP and UDP in teams of 2 to 3 (Licence Informatique Paris-Cité)
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@
 </p>
 
 <p align = "center">
-  Solitaire game solver algorithm in Ocaml (Licence Informatique Paris-Cité)
+  Solitaire game solver algorithm in Ocaml in a team of 2 (Licence Informatique Paris-Cité)
 </p>
 
 <h2> 🤝🏻 Connect with Me </h2>
