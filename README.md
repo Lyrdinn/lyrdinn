@@ -55,6 +55,7 @@
 <p align = "center">
   Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN) <br />
   Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA
+  Link here : https://github.com/Lyrdinn/Projet-Minicraft
 </p>
 
 <p align="center">
