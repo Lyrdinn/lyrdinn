@@ -20,6 +20,17 @@
 
 <h2> 💻 Recent Projects </h2>
 
+<p align="center">
+  <img src="screenshots/stage1.png" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage2.png" width="300" title="Earwyrm a co-op rythm-action game">
+  <img src="screenshots/stage3.png" width="300" title="Earwyrm a co-op rythm-action game">
+</p>
+
+<p align = "center">
+  Arcanistes en herbe, a game I made for my 2 months summer internship in the MNHN-CESCO <br />
+  Linkedin post here : https://www.linkedin.com/posts/marina-secord-4b01202a9_en-activity-7246912956901244928-V8rn?utm_source=share&utm_medium=member_desktop
+</p>
+
 
 <p align="center">
   <img src="screenshots/Earwyrm.png" width="300" title="Earwyrm a co-op rythm-action game">
