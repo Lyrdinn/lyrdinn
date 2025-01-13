@@ -25,7 +25,10 @@
 
 <h2> 💻 Recent Projects </h2>
 
-<iframe width="560" height="315" src="https://youtu.be/hAdCEOZhUKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<p align="center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
+  <img src="screenshots/TMS1" width="300" title="They Make Sound, an exploration/speology game">
+  <
+</p>
 
 <p align = "center">
   They Make Sound, an exploration/speology game, my M2 vertical slice project made in a team of 10 (2 programmers) (MNHN-CESCO lab) <br />
