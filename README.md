@@ -27,11 +27,13 @@
 
 <p align="center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
   <img src="screenshots/TMS1.png" width="300" title="They Make Sound, an exploration/speology game">
+  <img src="screenshots/TMS2.png" width="300" title="They Make Sound, an exploration/speology game">
+  <img src="screenshots/TMS3.png" width="300" title="They Make Sound, an exploration/speology game">
 </p>
 
 <p align = "center">
   They Make Sound, an exploration/speology game, my M2 vertical slice project made in a team of 10 (2 programmers) (MNHN-CESCO lab) <br />
-  Ask me for the repository
+  Gameplay here (or in image) : https://www.youtube.com/watch?v=hAdCEOZhUKs
 </p>
 
 <p align="center">
