@@ -27,7 +27,6 @@
 
 <p align="center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
   <img src="screenshots/TMS1" width="300" title="They Make Sound, an exploration/speology game">
-  <
 </p>
 
 <p align = "center">
