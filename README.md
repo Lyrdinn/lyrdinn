@@ -2,7 +2,6 @@
 
 <p> I'm an aspiring gameplay programmer that enjoys learning and making creative games. I studied for 3 years in Computer Science at the Université Paris-Cité and I'm currently in my 2nd year game programming master's degree at CNAM-ENJMIN. </p>
 
-- 🎓 &nbsp; I'm currently a master's degree game programming student at CNAM-ENJMIN and I'm trying to specialize in gameplay programming.
 - 🔧 &nbsp; I've made games in multiple engines but my favorite ones are mostly Unreal, Unity and Godot.
 - 🎮 &nbsp; I play a lot of varied genre of games but my favorite ones are : Platformers, rogue-likes, action games and rpgs.
 - 💻 &nbsp; I'm very passionate about procedural generation and AI.
@@ -15,14 +14,9 @@
 - 🎮 &nbsp; Unreal | Unity | Godot | Pico8 | Renpy
 - 🔧 &nbsp; Visual Studio | Visual Studio code  | Git | Perforce
 - 🖥 &nbsp; Waterfall | Scrum | Agile | Sprint | Notion | Confluence | Jira
-- 🖥 &nbsp; ClipStudioPaint | Photoshop | MedibangPaint | Blender
+- 🖥 &nbsp; ClipStudioPaint | Adobe suite | MedibangPaint | Blender
 
 <h2> 🎮 Itch.io Page https://lyrdinn.itch.io/  </h2>
-
-<h2> 📜 French CV : https://drive.google.com/file/d/1E-XSSfFFk27MB0h5nfY__s9gVb-T0cT8/view?usp=drive_link </h2>
-
-<h2> 📜 English CV : https://drive.google.com/file/d/1S-rU7VCjHWAGsy9bKACV2YUDmqW3VrdN/view?usp=drive_link </h2>
-
 
 <h2> 💻 Recent Projects </h2>
 
