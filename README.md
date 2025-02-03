@@ -56,7 +56,7 @@
 </p>
 
 <p align = "center">
-  Earwyrm a co-op rythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN) <br />
+  Earwyrm a co-op rhythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN) <br />
   Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4 <br />
   Link here : https://earwyrm.itch.io/earwyrm <br />
   Ask me for the repository
