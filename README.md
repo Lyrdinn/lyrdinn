@@ -40,7 +40,6 @@
 <p align = "center">
   Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab) <br />
   Linkedin post here : https://www.linkedin.com/posts/marina-secord-4b01202a9_en-activity-7246912956901244928-V8rn?utm_source=share&utm_medium=member_desktop <br />
-  Ask me for the repository
 </p>
 
 
@@ -54,7 +53,7 @@
   Earwyrm a co-op rhythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN) <br />
   Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4 <br />
   Link here : https://earwyrm.itch.io/earwyrm <br />
-  Ask me for the repository
+  Code extracts here : https://github.com/Lyrdinn/EarwyrmPublicRepository
 </p>
 
 <p align="center">
