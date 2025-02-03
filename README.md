@@ -33,7 +33,7 @@
 
 <p align = "center">
   They Make Sound, an exploration/speology game, my M2 vertical slice project made in a team of 10 (2 programmers) (MNHN-CESCO lab) <br />
-  Gameplay here (or in image) : https://www.youtube.com/watch?v=hAdCEOZhUKs
+  Gameplay demo here : https://www.youtube.com/watch?v=hAdCEOZhUKs
 </p>
 
 <p align="center">
