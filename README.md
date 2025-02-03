@@ -2,8 +2,8 @@
 
 <p> I'm an aspiring gameplay programmer that enjoys learning and making creative games. I studied for 3 years in Computer Science at the Université Paris-Cité and I'm currently in my 2nd year game programming master's degree at CNAM-ENJMIN. </p>
 
-- 🔧 &nbsp; I've made games in multiple engines but my favorite ones are mostly Unreal, Unity and Godot.
-- 🎮 &nbsp; I play a lot of varied genre of games but my favorite ones are : Platformers, rogue-likes, action games and rpgs.
+- 🔧 &nbsp; I've made games in multiple engines, my favorite ones are mostly Unreal, Unity and Godot.
+- 🎮 &nbsp; I play a lot of varied genres of games such as : Platformers, rogue-likes, action games and rpgs both Indie and AAA
 - 💻 &nbsp; I'm very passionate about procedural generation and AI.
 - ✏️ &nbsp; I like to draw illustrations and create characters. I've been learning how to draw since I was 13
 - 🌱 &nbsp; I often go for a walk outside and take pictures of nature and animals.
@@ -27,8 +27,8 @@
 </p>
 
 <p align = "center">
-  They Make Sound, an exploration/speology game, my M2 vertical slice project made in a team of 10 (2 programmers) (MNHN-CESCO lab) <br />
-  Gameplay demo here : https://www.youtube.com/watch?v=hAdCEOZhUKs
+  They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
+  Gameplay demo here : https://www.youtube.com/watch?v=5zjW4YtUJQs
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </p>
 
 <p align = "center">
-  Arcanistes en herbe, a card game prototype/proof of concept I made for my 2 months summer internship in a team of 3 (MNHN-CESCO lab) <br />
+  Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab) <br />
   Linkedin post here : https://www.linkedin.com/posts/marina-secord-4b01202a9_en-activity-7246912956901244928-V8rn?utm_source=share&utm_medium=member_desktop <br />
   Ask me for the repository
 </p>
@@ -94,7 +94,7 @@
 </p>
 
 <p align = "center">
-  Pico8 procedural dungeon game (Personnal project) <br />
+  Pico8 procedural dungeon game (Personal project) <br />
   Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
 </p>
 
@@ -104,7 +104,7 @@
 </p>
 
 <p align = "center">
-  Co-op bullet hell game develloped in Unity in a team of 10 (Cnam-ENJMIN) <br />
+  Co-op bullet hell game developed in Unity in a team of 10 with another programmer (Cnam-ENJMIN) <br />
   Link here : https://shanori.itch.io/triose
 </p>
 
@@ -127,7 +127,7 @@
 </p>
 
 <p align = "center">
-  Various games develloped in Java (Licence Informatique Paris-Cité)
+  Various games developped in Java (Licence Informatique Paris-Cité)
 </p>
 
 <p align="center">
