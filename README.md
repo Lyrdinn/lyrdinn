@@ -28,9 +28,9 @@
 
 <p align = "center">
   They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
-  Trailer here : https://youtu.be/-RXQFmPGzjY
-  Link here : https://theymakesounds.itch.io/they-make-sounds
-  Code extracts here : https://github.com/Lyrdinn/TheyMakeSounds
+  Trailer here : https://youtu.be/-RXQFmPGzjY <br />
+  Link here : https://theymakesounds.itch.io/they-make-sounds <br /> 
+  Code extracts here : https://github.com/Lyrdinn/TheyMakeSounds <br />
 </p>
 
 <p align="center">
