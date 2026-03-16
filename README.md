@@ -47,17 +47,17 @@
   Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
 </p>
 <p align="center">
-&nbsp; <a href="https://lyrdinn.itch.io/shattered-hourglass" target="_blank" rel="noopener noreferrer"> <img src="icons/itch" width="50" /><a>
-&nbsp; <a href="https://youtu.be/8OLGj11ykbM" target="_blank" rel="noopener noreferrer"> <img src="icons/itch" width="50" /><a>
+&nbsp; <a href="https://lyrdinn.itch.io/shattered-hourglass" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+&nbsp; <a href="https://youtu.be/8OLGj11ykbM" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
 </p>
 
 <h2 align = "center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
   They Make Sounds
 </h2>
 <p align="center">
-  <img src="screenshots/tms1.png" width="300" title="They Make Sound, an exploration/speology game">
-  <img src="screenshots/tms2.png" width="300" title="They Make Sound, an exploration/speology game">
-  <img src="screenshots/tms3.png" width="300" title="They Make Sound, an exploration/speology game">
+  <img src="screenshots/tms1.jpg" width="300" title="They Make Sound, an exploration/speology game">
+  <img src="screenshots/tms2.jpg" width="300" title="They Make Sound, an exploration/speology game">
+  <img src="screenshots/tms3.jpg" width="300" title="They Make Sound, an exploration/speology game">
 </p>
 <p align = "center">
   They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
@@ -70,9 +70,9 @@
   Card Game
 </h2>
 <p align="center">
-  <img src="screenshots/stage1.jpg" width="300" title="A card game I made for the MNHN-CESCO">
-  <img src="screenshots/stage2.jpg" width="300" title="A card game I made for the MNHN-CESCO">
-  <img src="screenshots/stage3.jpg" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage1.gif" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage2.gif" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage3.gif" width="300" title="A card game I made for the MNHN-CESCO">
 </p>
 <p align = "center">
   Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab) <br />
