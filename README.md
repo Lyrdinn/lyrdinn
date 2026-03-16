@@ -79,8 +79,9 @@
   Code extracts here : https://github.com/Lyrdinn/TheyMakeSounds <br />
 </p>
 <p align="center">
-&nbsp; <a href="https://theymakesounds.itch.io/they-make-sounds" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
-&nbsp; <a href="https://youtu.be/-RXQFmPGzjY" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
+  &nbsp; <a href="https://github.com/Lyrdinn/TheyMakeSounds" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
+  &nbsp; <a href="https://theymakesounds.itch.io/they-make-sounds" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+  &nbsp; <a href="https://youtu.be/-RXQFmPGzjY" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
 </p>
 
 <h2 align = "center">
@@ -111,8 +112,9 @@
   Code extracts here : https://github.com/Lyrdinn/EarwyrmPublicRepository
 </p>
 <p align="center">
-&nbsp; <a href="https://earwyrm.itch.io/earwyrm" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
-&nbsp; <a href="https://youtu.be/xS_NTMbvMz4" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
+  &nbsp; <a href="https://github.com/Lyrdinn/EarwyrmPublicRepository" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
+  &nbsp; <a href="https://earwyrm.itch.io/earwyrm" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+  &nbsp; <a href="https://youtu.be/xS_NTMbvMz4" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
 </p>
 
 <h2 align = "center">
