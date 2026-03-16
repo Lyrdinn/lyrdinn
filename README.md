@@ -58,9 +58,9 @@
 </p>
 <p align = "center">
   Pico8 procedural dungeon game (Personal project) <br />
-  Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
 </p>
 <p align="center">
+&nbsp; <a href="https://github.com/Lyrdinn/Dungeon_game_pico8" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
 &nbsp; <a href="https://lyrdinn.itch.io/shattered-hourglass" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
 &nbsp; <a href="https://youtu.be/8OLGj11ykbM" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
 </p>
@@ -74,9 +74,6 @@
 </p>
 <p align = "center">
   They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
-  Trailer here : https://youtu.be/-RXQFmPGzjY <br />
-  Link here : https://theymakesounds.itch.io/they-make-sounds <br /> 
-  Code extracts here : https://github.com/Lyrdinn/TheyMakeSounds <br />
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/TheyMakeSounds" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -94,7 +91,6 @@
 </p>
 <p align = "center">
   Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab) <br />
-  Linkedin post here : https://www.linkedin.com/posts/marina-secord-4b01202a9_en-activity-7246912956901244928-V8rn?utm_source=share&utm_medium=member_desktop <br />
 </p>
 
 <h2 align = "center">
@@ -107,9 +103,6 @@
 </p>
 <p align = "center">
   Earwyrm a co-op rhythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN) <br />
-  Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4 <br />
-  Link here : https://earwyrm.itch.io/earwyrm <br />
-  Code extracts here : https://github.com/Lyrdinn/EarwyrmPublicRepository
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/EarwyrmPublicRepository" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -128,6 +121,9 @@
   Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end. (Cnam-ENJMIN) <br />
   Link here : https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm
 </p>
+<p align="center">
+  &nbsp; <a href="https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
+</p>
 
 <h2 align = "center">
   OpenGL Minecraft
@@ -140,6 +136,10 @@
   Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN) <br />
   Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA <br />
   Link here : https://github.com/Lyrdinn/Projet-Minicraft
+</p>
+<p align="center">
+  &nbsp; <a href="https://github.com/Lyrdinn/Projet-Minicraft" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
+  &nbsp; <a href="https://www.youtube.com/watch?v=0yXIqEj37sA" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
 </p>
 
 <h2> 💻 Older Projects </h2>
