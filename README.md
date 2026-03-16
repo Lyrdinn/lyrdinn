@@ -21,6 +21,21 @@
 <h2> 💻 Recent Projects </h2>
 
 <h2 align = "center" href="https://lyrdinn.itch.io/farm-bunnies" target="_blank">
+  Escapastamp
+</h2>
+<p align="center">
+  <img src="screenshots/esca1.png" width="300" title="">
+  <img src="screenshots/esca2.png" width="300" title="">
+</p>
+<p align = "center">
+  A first person online co-op adventure where you must earn achievements (Freelance) <br />
+</p>
+<p align="center">
+&nbsp; <a href="https://aircooledmax.itch.io/escapastamp" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+</p>
+
+
+<h2 align = "center" href="https://lyrdinn.itch.io/farm-bunnies" target="_blank">
   Farm Bunnies
 </h2>
 <p align="center">
@@ -40,6 +55,7 @@
 <p align="center">
   <img src="screenshots/sha1.png" width="300" title="Pico8 dungeon game">
   <img src="screenshots/sha2.png" width="300" title="Pico8 dungeon game">
+  <img src="screenshots/sha3.png" width="300" title="Pico8 dungeon game">
 </p>
 <p align = "center">
   Pico8 procedural dungeon game (Personal project) <br />
