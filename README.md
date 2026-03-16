@@ -25,7 +25,7 @@
 </h2>
 <p align="center">
   <img src="screenshots/esca1.png" width="300" title="">
-  <img src="screenshots/esca2.png" width="300" title="">
+  <img src="screenshots/esca1.png" width="300" title="">
 </p>
 <p align = "center">
   A first person online co-op adventure where you must earn achievements (Freelance) <br />
@@ -55,7 +55,6 @@
 <p align="center">
   <img src="screenshots/sha1.png" width="300" title="Pico8 dungeon game">
   <img src="screenshots/sha2.png" width="300" title="Pico8 dungeon game">
-  <img src="screenshots/sha3.png" width="300" title="Pico8 dungeon game">
 </p>
 <p align = "center">
   Pico8 procedural dungeon game (Personal project) <br />
@@ -72,7 +71,6 @@
 <p align="center">
   <img src="screenshots/tms1.jpg" width="300" title="They Make Sound, an exploration/speology game">
   <img src="screenshots/tms2.jpg" width="300" title="They Make Sound, an exploration/speology game">
-  <img src="screenshots/tms3.jpg" width="300" title="They Make Sound, an exploration/speology game">
 </p>
 <p align = "center">
   They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
