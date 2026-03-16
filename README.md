@@ -20,12 +20,26 @@
 
 <h2> 💻 Recent Projects </h2>
 
+<h2 align = "center">
+  Shattered Hourglass
+</h2>
+<p align="center">
+  <img src="screenshots/pico81.png" width="300" title="Pico8 dungeon game">
+  <img src="screenshots/pico82.png" width="300" title="Pico8 dungeon game">
+</p>
+<p align = "center">
+  Pico8 procedural dungeon game (Personal project) <br />
+  Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
+</p>
+
+<h2 align = "center">
+  They Make Sounds
+</h2>
 <p align="center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
   <img src="screenshots/TMS1.png" width="300" title="They Make Sound, an exploration/speology game">
   <img src="screenshots/TMS2.png" width="300" title="They Make Sound, an exploration/speology game">
   <img src="screenshots/TMS3.png" width="300" title="They Make Sound, an exploration/speology game">
 </p>
-
 <p align = "center">
   They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
   Trailer here : https://youtu.be/-RXQFmPGzjY <br />
@@ -33,24 +47,27 @@
   Code extracts here : https://github.com/Lyrdinn/TheyMakeSounds <br />
 </p>
 
+<h2 align = "center">
+  Card Game
+</h2>
 <p align="center">
   <img src="screenshots/stage1.jpg" width="300" title="A card game I made for the MNHN-CESCO">
   <img src="screenshots/stage2.jpg" width="300" title="A card game I made for the MNHN-CESCO">
   <img src="screenshots/stage3.jpg" width="300" title="A card game I made for the MNHN-CESCO">
 </p>
-
 <p align = "center">
   Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab) <br />
   Linkedin post here : https://www.linkedin.com/posts/marina-secord-4b01202a9_en-activity-7246912956901244928-V8rn?utm_source=share&utm_medium=member_desktop <br />
 </p>
 
-
+<h2 align = "center">
+  Earwyrm
+</h2>
 <p align="center">
   <img src="screenshots/Earwyrm.png" width="300" title="Earwyrm a co-op rythm-action game">
   <img src="screenshots/Earwyrm1.png" width="300" title="Earwyrm a co-op rythm-action game">
   <img src="screenshots/Earwyrm2.png" width="300" title="Earwyrm a co-op rythm-action game">
 </p>
-
 <p align = "center">
   Earwyrm a co-op rhythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN) <br />
   Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4 <br />
@@ -58,65 +75,29 @@
   Code extracts here : https://github.com/Lyrdinn/EarwyrmPublicRepository
 </p>
 
+<h2 align = "center">
+  Quoridor
+</h2>
 <p align="center">
   <img src="screenshots/quoridor1.png" width="300" title="Minecraft open gl">
   <img src="screenshots/quoridor2.png" width="300" title="Minecraft open gl">
 </p>
-
 <p align = "center">
   Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end. (Cnam-ENJMIN) <br />
   Link here : https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm
 </p>
 
-
+<h2 align = "center">
+  OpenGL Minecraft
+</h2>
 <p align="center">
   <img src="screenshots/minicraft1.png" width="300" title="Minecraft open gl">
   <img src="screenshots/minicraft2.png" width="300" title="Minecraft open gl">
 </p>
-
 <p align = "center">
   Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN) <br />
   Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA <br />
   Link here : https://github.com/Lyrdinn/Projet-Minicraft
-</p>
-
-<p align="center">
-  <img src="screenshots/aiants.png" width="300" title="Ant AI for Google's 2011 challenge">
-</p>
-
-<p align = "center">
-  Ant AI in C++ based on the Google AI 2011 Challenge in a team of 3 (Cnam-ENJMIN) <br />
-  Link here : https://github.com/Lyrdinn/FourmisTP
-</p>
-
-<p align="center">
-  <img src="screenshots/pico81.png" width="300" title="Pico8 dungeon game">
-  <img src="screenshots/pico82.png" width="300" title="Pico8 dungeon game">
-</p>
-
-<p align = "center">
-  Pico8 procedural dungeon game (Personal project) <br />
-  Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
-</p>
-
-<p align="center">
-  <img src="screenshots/triose1.png" width="300" title="Co-op bullet hell game">
-  <img src="screenshots/triose2.png" width="300" title="Co-op bullet hell game">
-</p>
-
-<p align = "center">
-  Co-op bullet hell game developed in Unity in a team of 10 with another programmer (Cnam-ENJMIN) <br />
-  Link here : https://shanori.itch.io/triose
-</p>
-
-<p align="center">
-  <img src="screenshots/larcinlazer.png" width="300" title="Memory puzzle game">
-  <img src="screenshots/larcinlazer1.png" width="300" title="Memory puzzle game">
-</p>
-
-<p align = "center">
-  Larcin lazer demake developped in C++ in a team of 2 (Cnam-ENJMIN) (game belongs to @DocGeraud) <br />
-  Link here : https://github.com/Lyrdinn/LarcinLazer
 </p>
 
 <h2> 💻 Older Projects </h2>
