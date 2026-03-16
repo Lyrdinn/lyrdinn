@@ -20,25 +20,44 @@
 
 <h2> 💻 Recent Projects </h2>
 
-<h2 align = "center">
+<h2 align = "center" href="https://lyrdinn.itch.io/farm-bunnies" target="_blank">
+  Farm Bunnies
+</h2>
+<p align="center">
+  <img src="screenshots/farm1.png" width="300" title="Pico8 dungeon game">
+  <img src="screenshots/farm2.png" width="300" title="Pico8 dungeon game">
+</p>
+<p align = "center">
+  An online co-op farming game for 1 to 4 players (Game Jam) <br />
+  Link here : https://lyrdinn.itch.io/farm-bunnies
+</p>
+<p align="center">
+&nbsp; <a href="https://lyrdinn.itch.io/farm-bunnies" target="_blank" rel="noopener noreferrer"> <img src="icons/itch" width="50" /><a>
+</p>
+
+<h2 align = "center" href="https://youtu.be/8OLGj11ykbM" target="_blank">
   Shattered Hourglass
 </h2>
 <p align="center">
-  <img src="screenshots/pico81.png" width="300" title="Pico8 dungeon game">
-  <img src="screenshots/pico82.png" width="300" title="Pico8 dungeon game">
+  <img src="screenshots/sha1.png" width="300" title="Pico8 dungeon game">
+  <img src="screenshots/sha2.png" width="300" title="Pico8 dungeon game">
 </p>
 <p align = "center">
   Pico8 procedural dungeon game (Personal project) <br />
   Link here : https://github.com/Lyrdinn/Dungeon_game_pico8
 </p>
+<p align="center">
+&nbsp; <a href="https://lyrdinn.itch.io/shattered-hourglass" target="_blank" rel="noopener noreferrer"> <img src="icons/itch" width="50" /><a>
+&nbsp; <a href="https://youtu.be/8OLGj11ykbM" target="_blank" rel="noopener noreferrer"> <img src="icons/itch" width="50" /><a>
+</p>
 
-<h2 align = "center">
+<h2 align = "center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
   They Make Sounds
 </h2>
-<p align="center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
-  <img src="screenshots/TMS1.png" width="300" title="They Make Sound, an exploration/speology game">
-  <img src="screenshots/TMS2.png" width="300" title="They Make Sound, an exploration/speology game">
-  <img src="screenshots/TMS3.png" width="300" title="They Make Sound, an exploration/speology game">
+<p align="center">
+  <img src="screenshots/tms1.png" width="300" title="They Make Sound, an exploration/speology game">
+  <img src="screenshots/tms2.png" width="300" title="They Make Sound, an exploration/speology game">
+  <img src="screenshots/tms3.png" width="300" title="They Make Sound, an exploration/speology game">
 </p>
 <p align = "center">
   They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
