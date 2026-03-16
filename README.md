@@ -28,7 +28,7 @@
   <img src="screenshots/esca1.png" width="300" title="">
 </p>
 <p align = "center">
-  A first person online co-op adventure where you must earn achievements (Freelance) <br />
+  A first person online co-op adventure where you must earn achievements (Freelance)
 </p>
 <p align="center">
 &nbsp; <a href="https://aircooledmax.itch.io/escapastamp" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
@@ -43,7 +43,7 @@
   <img src="screenshots/farm2.png" width="300" title="Pico8 dungeon game">
 </p>
 <p align = "center">
-  An online co-op farming game for 1 to 4 players (Game Jam) <br />
+  An online co-op farming game for 1 to 4 players (Game Jam)
 </p>
 <p align="center">
 &nbsp; <a href="https://lyrdinn.itch.io/farm-bunnies" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
@@ -57,7 +57,7 @@
   <img src="screenshots/sha2.png" width="300" title="Pico8 dungeon game">
 </p>
 <p align = "center">
-  Pico8 procedural dungeon game (Personal project) <br />
+  Pico8 procedural dungeon game (Personal project)
 </p>
 <p align="center">
 &nbsp; <a href="https://github.com/Lyrdinn/Dungeon_game_pico8" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -73,7 +73,7 @@
   <img src="screenshots/tms2.jpg" width="300" title="They Make Sound, an exploration/speology game">
 </p>
 <p align = "center">
-  They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN) <br />
+  They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN)
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/TheyMakeSounds" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -89,19 +89,18 @@
   <img src="screenshots/stage3.jpg" width="300" title="A card game I made for the MNHN-CESCO">
 </p>
 <p align = "center">
-  Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab) <br />
+  Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab)
 </p>
 
 <h2 align = "center">
   Earwyrm
 </h2>
 <p align="center">
-  <img src="screenshots/Earwyrm.png" width="300" title="Earwyrm a co-op rythm-action game">
   <img src="screenshots/Earwyrm1.png" width="300" title="Earwyrm a co-op rythm-action game">
   <img src="screenshots/Earwyrm2.png" width="300" title="Earwyrm a co-op rythm-action game">
 </p>
 <p align = "center">
-  Earwyrm a co-op rhythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN) <br />
+  Earwyrm a co-op rhythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN)
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/EarwyrmPublicRepository" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -117,8 +116,7 @@
   <img src="screenshots/quoridor2.png" width="300" title="Minecraft open gl">
 </p>
 <p align = "center">
-  Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end. (Cnam-ENJMIN) <br />
-  Link here : https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm
+  Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end. (Cnam-ENJMIN)
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -132,9 +130,7 @@
   <img src="screenshots/minicraft2.png" width="300" title="Minecraft open gl">
 </p>
 <p align = "center">
-  Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN) <br />
-  Gameplay here : https://www.youtube.com/watch?v=0yXIqEj37sA <br />
-  Link here : https://github.com/Lyrdinn/Projet-Minicraft
+  Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/Projet-Minicraft" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
