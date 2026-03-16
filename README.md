@@ -29,10 +29,9 @@
 </p>
 <p align = "center">
   An online co-op farming game for 1 to 4 players (Game Jam) <br />
-  Link here : https://lyrdinn.itch.io/farm-bunnies
 </p>
 <p align="center">
-&nbsp; <a href="https://lyrdinn.itch.io/farm-bunnies" target="_blank" rel="noopener noreferrer"> <img src="icons/itch" width="50" /><a>
+&nbsp; <a href="https://lyrdinn.itch.io/farm-bunnies" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
 </p>
 
 <h2 align = "center" href="https://youtu.be/8OLGj11ykbM" target="_blank">
@@ -65,6 +64,10 @@
   Link here : https://theymakesounds.itch.io/they-make-sounds <br /> 
   Code extracts here : https://github.com/Lyrdinn/TheyMakeSounds <br />
 </p>
+<p align="center">
+&nbsp; <a href="https://theymakesounds.itch.io/they-make-sounds" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+&nbsp; <a href="https://youtu.be/-RXQFmPGzjY" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
+</p>
 
 <h2 align = "center">
   Card Game
@@ -92,6 +95,10 @@
   Trailer here : https://www.youtube.com/watch?v=xS_NTMbvMz4 <br />
   Link here : https://earwyrm.itch.io/earwyrm <br />
   Code extracts here : https://github.com/Lyrdinn/EarwyrmPublicRepository
+</p>
+<p align="center">
+&nbsp; <a href="https://earwyrm.itch.io/earwyrm" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+&nbsp; <a href="https://youtu.be/xS_NTMbvMz4" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
 </p>
 
 <h2 align = "center">
