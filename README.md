@@ -85,9 +85,9 @@
   Card Game
 </h2>
 <p align="center">
-  <img src="screenshots/stage1.gif" width="300" title="A card game I made for the MNHN-CESCO">
-  <img src="screenshots/stage2.gif" width="300" title="A card game I made for the MNHN-CESCO">
-  <img src="screenshots/stage3.gif" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage1.jpg" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage2.jpg" width="300" title="A card game I made for the MNHN-CESCO">
+  <img src="screenshots/stage3.jpg" width="300" title="A card game I made for the MNHN-CESCO">
 </p>
 <p align = "center">
   Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab) <br />
