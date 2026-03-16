@@ -86,7 +86,6 @@
 </h2>
 <p align="center">
   <img src="screenshots/stage1.jpg" width="300" title="A card game I made for the MNHN-CESCO">
-  <img src="screenshots/stage2.jpg" width="300" title="A card game I made for the MNHN-CESCO">
   <img src="screenshots/stage3.jpg" width="300" title="A card game I made for the MNHN-CESCO">
 </p>
 <p align = "center">
