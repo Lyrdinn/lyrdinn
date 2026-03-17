@@ -27,11 +27,16 @@
   <img src="screenshots/esca1.png" width="300" title="">
   <img src="screenshots/esca1.png" width="300" title="">
 </p>
+<p align="center">
+  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Made%20in%20C%2B%2B-2d6eb3?style=flat-square&logo=c%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Made%20In%20Blueprint-6495ed?style=flat-square">
+</p>
 <p align = "center">
   A first person online co-op adventure where you must earn achievements (Freelance)
 </p>
 <p align="center">
-&nbsp; <a href="https://aircooledmax.itch.io/escapastamp" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+&nbsp; <a href="https://aircooledmax.itch.io/escapastamp" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="40" /><a>
 </p>
 
 
@@ -42,11 +47,15 @@
   <img src="screenshots/farm1.png" width="300" title="Pico8 dungeon game">
   <img src="screenshots/farm2.png" width="300" title="Pico8 dungeon game">
 </p>
+<p align="center">
+  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
+  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
+</p>
 <p align = "center">
   An online co-op farming game for 1 to 4 players (Game Jam)
 </p>
 <p align="center">
-&nbsp; <a href="https://lyrdinn.itch.io/farm-bunnies" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
+&nbsp; <a href="https://lyrdinn.itch.io/farm-bunnies" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="40" /><a>
 </p>
 
 <h2 align = "center" href="https://youtu.be/8OLGj11ykbM" target="_blank">
@@ -56,13 +65,17 @@
   <img src="screenshots/sha1.png" width="300" title="Pico8 dungeon game">
   <img src="screenshots/sha2.png" width="300" title="Pico8 dungeon game">
 </p>
+<p align="center">
+<img alt="Lua" src="https://img.shields.io/badge/Made%20in%20lua-3d41c9?style=flat-square&logo=lua">
+<img alt="Pico 8" src="https://img.shields.io/badge/Made%20in%20pico8-ad2289?style=flat-square&link=https%3A%2F%2Flexaloffle.itch.io%2Fpico-8">
+</p>
 <p align = "center">
   Pico8 procedural dungeon game (Personal project)
 </p>
 <p align="center">
-&nbsp; <a href="https://github.com/Lyrdinn/Dungeon_game_pico8" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
-&nbsp; <a href="https://lyrdinn.itch.io/shattered-hourglass" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
-&nbsp; <a href="https://youtu.be/8OLGj11ykbM" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
+&nbsp; <a href="https://github.com/Lyrdinn/Dungeon_game_pico8" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="40" /><a>
+&nbsp; <a href="https://lyrdinn.itch.io/shattered-hourglass" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="40" /><a>
+&nbsp; <a href="https://youtu.be/8OLGj11ykbM" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="40" /><a>
 </p>
 
 <h2 align = "center" href="https://www.youtube.com/watch?v=hAdCEOZhUKs" target="_blank">
@@ -72,13 +85,18 @@
   <img src="screenshots/tms1.jpg" width="300" title="They Make Sound, an exploration/speology game">
   <img src="screenshots/tms2.jpg" width="300" title="They Make Sound, an exploration/speology game">
 </p>
+<p align="center">
+  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Made%20in%20C%2B%2B-2d6eb3?style=flat-square&logo=c%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Made%20In%20Blueprint-6495ed?style=flat-square">
+</p>
 <p align = "center">
   They Make Sound, an exploration/speleology game, M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN)
 </p>
 <p align="center">
-  &nbsp; <a href="https://github.com/Lyrdinn/TheyMakeSounds" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
-  &nbsp; <a href="https://theymakesounds.itch.io/they-make-sounds" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
-  &nbsp; <a href="https://youtu.be/-RXQFmPGzjY" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
+  &nbsp; <a href="https://github.com/Lyrdinn/TheyMakeSounds" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="40" /><a>
+  &nbsp; <a href="https://theymakesounds.itch.io/they-make-sounds" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="40" /><a>
+  &nbsp; <a href="https://youtu.be/-RXQFmPGzjY" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="40" /><a>
 </p>
 
 <h2 align = "center">
@@ -99,13 +117,17 @@
   <img src="screenshots/Earwyrm1.png" width="300" title="Earwyrm a co-op rythm-action game">
   <img src="screenshots/Earwyrm2.png" width="300" title="Earwyrm a co-op rythm-action game">
 </p>
+<p align="center">
+  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
+  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
+</p>
 <p align = "center">
   Earwyrm a co-op rhythm-action game, M1 project in a team of 6 (Cnam-ENJMIN)
 </p>
 <p align="center">
-  &nbsp; <a href="https://github.com/Lyrdinn/EarwyrmPublicRepository" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
-  &nbsp; <a href="https://earwyrm.itch.io/earwyrm" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="50" /><a>
-  &nbsp; <a href="https://youtu.be/xS_NTMbvMz4" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
+  &nbsp; <a href="https://github.com/Lyrdinn/EarwyrmPublicRepository" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="40" /><a>
+  &nbsp; <a href="https://earwyrm.itch.io/earwyrm" target="_blank" rel="noopener noreferrer"> <img src="icons/itch.png" width="40" /><a>
+  &nbsp; <a href="https://youtu.be/xS_NTMbvMz4" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="40" /><a>
 </p>
 
 <h2 align = "center">
@@ -115,11 +137,15 @@
   <img src="screenshots/quoridor1.png" width="300" title="Minecraft open gl">
   <img src="screenshots/quoridor2.png" width="300" title="Minecraft open gl">
 </p>
+<p align="center">
+  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
+  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
+</p>
 <p align = "center">
   Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end (Cnam-ENJMIN)
 </p>
 <p align="center">
-  &nbsp; <a href="https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
+  &nbsp; <a href="https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="40" /><a>
 </p>
 
 <h2 align = "center">
@@ -129,20 +155,24 @@
   <img src="screenshots/minicraft1.png" width="300" title="Minecraft open gl">
   <img src="screenshots/minicraft2.png" width="300" title="Minecraft open gl">
 </p>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Made%20in%20C%2B%2B-2d6eb3?style=flat-square&logo=c%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Made%20in%20OpenGL-7396b2?style=flat-square&logo=opengl">
+</p>
 <p align = "center">
   Minecraft recreation in C++ and OpenGL (Cnam-ENJMIN)
 </p>
 <p align="center">
-  &nbsp; <a href="https://github.com/Lyrdinn/Projet-Minicraft" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
-  &nbsp; <a href="https://www.youtube.com/watch?v=0yXIqEj37sA" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="50" /><a>
+  &nbsp; <a href="https://github.com/Lyrdinn/Projet-Minicraft" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="40" /><a>
+  &nbsp; <a href="https://www.youtube.com/watch?v=0yXIqEj37sA" target="_blank" rel="noopener noreferrer"> <img src="icons/youtube.png" width="40" /><a>
 </p>
 
 <h2> 💻 Older Projects </h2>
 
 <p align="center">
-  <img src="screenshots/dactylogame.png" width="250" title="Typing game in Java">
-  <img src="screenshots/jeudelavie.png" width="250" title="Game of life">
-  <img src="screenshots/catan.png" width="250" title="Catan board game">
+  <img src="screenshots/dactylogame.png" width="240" title="Typing game in Java">
+  <img src="screenshots/jeudelavie.png" width="240" title="Game of life">
+  <img src="screenshots/catan.png" width="240" title="Catan board game">
 </p>
 
 <p align = "center">
@@ -150,8 +180,8 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/reseaux.png" width="250" title="Client server social network">
-  <img src="screenshots/reseaux2.png" width="250" title="Client server social network">
+  <img src="screenshots/reseaux.png" width="240" title="Client server social network">
+  <img src="screenshots/reseaux2.png" width="240" title="Client server social network">
 </p>
 
 <p align = "center">
@@ -159,7 +189,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/solitaire.png" width="250" title="Solitaire solver algorithm">
+  <img src="screenshots/solitaire.png" width="240" title="Solitaire solver algorithm">
 </p>
 
 <p align = "center">
@@ -169,7 +199,7 @@
 <h2> 🤝🏻 Connect with Me </h2>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/lyrdinn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/lyr_dinn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/marina-secord-4b01202a9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/lyrdinn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="40" /></a>  
+&nbsp; <a href="https://www.instagram.com/lyr_dinn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="40" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/marina-secord-4b01202a9/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40" /></a>
 </p>
