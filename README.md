@@ -49,6 +49,7 @@
 </p>
 <p align="center">
  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20C%23-blue?style=flat-square&logo=sharp">
 </p>
 <p align = "center">
   An online co-op farming game for 1 to 4 players (Game Jam)
@@ -107,6 +108,7 @@
 </p>
 <p align="center">
  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20C%23-blue?style=flat-square&logo=sharp">
 </p>
 <p align = "center">
   Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab)
@@ -122,8 +124,9 @@
 <p align="center">
  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
 </p>
-<p align = "center">
-  Earwyrm a co-op rhythm-action game, M1 project in a team of 6 (Cnam-ENJMIN)
+<p align="center">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20C%23-blue?style=flat-square&logo=sharp">
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/EarwyrmPublicRepository" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="40" /><a>
@@ -140,6 +143,7 @@
 </p>
 <p align="center">
  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20C%23-blue?style=flat-square&logo=sharp">
 </p>
 <p align = "center">
   Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end (Cnam-ENJMIN)
