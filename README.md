@@ -1,6 +1,6 @@
 <h2> 👨🏻‍💻 About Me </h2>
 
-<p> I'm an aspiring gameplay programmer that enjoys learning and making creative games. I studied for 3 years in Computer Science at the Université Paris-Cité and I'm currently in my 2nd year game programming master's degree at CNAM-ENJMIN. </p>
+<p> Hi ! I'm a junior gameplay programmer and I hold a bachelor in Computer Science at the Université Paris-Cité and a game programming master's degree at CNAM-ENJMIN. Feel free to explore my repositories and to check out my games !</p>
 
 - 🔧 &nbsp; I've made games in multiple engines, my favorite ones are mostly Unreal, Unity and Godot.
 - 🎮 &nbsp; I play a lot of varied genres of games such as : Platformers, rogue-likes, action games and rpgs both Indie and AAA
