@@ -4,7 +4,7 @@
 
 - 🔧 &nbsp; I've made games in multiple engines, my favorite ones are mostly Unreal, Unity and Godot.
 - 🎮 &nbsp; I play a lot of varied genres of games such as : Platformers, rogue-likes, action games and rpgs both Indie and AAA
-- 💻 &nbsp; I'm very passionate about procedural generation and AI.
+- 💻 &nbsp; I'm very passionate about procedural generation.
 - ✏️ &nbsp; I like to draw illustrations and create characters. I've been learning how to draw since I was 13
 - 🌱 &nbsp; I often go for a walk outside and take pictures of nature and animals.
 
@@ -73,7 +73,7 @@
   <img src="screenshots/tms2.jpg" width="300" title="They Make Sound, an exploration/speology game">
 </p>
 <p align = "center">
-  They Make Sound, an exploration/speleology game, my M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN)
+  They Make Sound, an exploration/speleology game, M2 vertical slice project made in a team of 10 (2 programmers) (Cnam-ENJMIN)
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/TheyMakeSounds" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -100,7 +100,7 @@
   <img src="screenshots/Earwyrm2.png" width="300" title="Earwyrm a co-op rythm-action game">
 </p>
 <p align = "center">
-  Earwyrm a co-op rhythm-action game, my M1 project in a team of 6 (Cnam-ENJMIN)
+  Earwyrm a co-op rhythm-action game, M1 project in a team of 6 (Cnam-ENJMIN)
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Lyrdinn/EarwyrmPublicRepository" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
@@ -116,7 +116,7 @@
   <img src="screenshots/quoridor2.png" width="300" title="Minecraft open gl">
 </p>
 <p align = "center">
-  Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end. (Cnam-ENJMIN)
+  Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end (Cnam-ENJMIN)
 </p>
 <p align="center">
   &nbsp; <a href="https://github.com/Sand-Fox/Quoridor-Genetic-Algorithm" target="_blank" rel="noopener noreferrer"> <img src="icons/github.webp" width="50" /><a>
