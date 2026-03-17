@@ -48,8 +48,7 @@
   <img src="screenshots/farm2.png" width="300" title="Pico8 dungeon game">
 </p>
 <p align="center">
-  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
-  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
 </p>
 <p align = "center">
   An online co-op farming game for 1 to 4 players (Game Jam)
@@ -106,6 +105,9 @@
   <img src="screenshots/stage1.jpg" width="300" title="A card game I made for the MNHN-CESCO">
   <img src="screenshots/stage3.jpg" width="300" title="A card game I made for the MNHN-CESCO">
 </p>
+<p align="center">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
+</p>
 <p align = "center">
   Arcanistes en herbe, a card game prototype/proof of concept I made for my 2-months summer internship in a team of 3 (MNHN-CESCO lab)
 </p>
@@ -118,8 +120,7 @@
   <img src="screenshots/Earwyrm2.png" width="300" title="Earwyrm a co-op rythm-action game">
 </p>
 <p align="center">
-  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
-  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
 </p>
 <p align = "center">
   Earwyrm a co-op rhythm-action game, M1 project in a team of 6 (Cnam-ENJMIN)
@@ -138,8 +139,7 @@
   <img src="screenshots/quoridor2.png" width="300" title="Minecraft open gl">
 </p>
 <p align="center">
-  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
-  <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
+ <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
 </p>
 <p align = "center">
   Implementation of the Genetics Algorithm to Quoridor. Ai compete against each other, with the best one emerging at the end (Cnam-ENJMIN)
