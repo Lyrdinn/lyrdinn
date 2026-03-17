@@ -123,9 +123,6 @@
 </p>
 <p align="center">
  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
-</p>
-<p align="center">
- <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20Unity-grey?style=flat-square&logo=Unity">
  <img alt="Static Badge" height="20" src="https://img.shields.io/badge/Made%20in%20C%23-blue?style=flat-square&logo=sharp">
 </p>
 <p align="center">
